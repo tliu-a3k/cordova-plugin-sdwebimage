@@ -8,6 +8,8 @@
 
     <engines>
         <engine name="cordova" version="3.*" />
+        <engine name="cordova" version="4.*" />
+        <engine name="cordova" version="5.*" />
     </engines>
 
     <js-module src="www/plugin.js" name="SDWebImage">
